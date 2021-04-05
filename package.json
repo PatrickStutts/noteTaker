@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/PatrickStutts/noteTaker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "node": "^15.12.0"
   }
 }
