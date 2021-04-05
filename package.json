@@ -1,0 +1,23 @@
+{
+  "name": "notetaker",
+  "version": "1.0.0",
+  "description": "A note taking app that allows you to create and store personal notes. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrickStutts/noteTaker.git"
+  },
+  "author": "Patrick Stutts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrickStutts/noteTaker/issues"
+  },
+  "homepage": "https://github.com/PatrickStutts/noteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
